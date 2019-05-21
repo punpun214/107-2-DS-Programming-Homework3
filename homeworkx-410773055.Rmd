@@ -49,6 +49,8 @@ finStatement <- read_csv("http://mopsfin.twse.com.tw/opendata/t187ap06_O_ci.csv"
 變數**營業利益（損失）**是公司本業的利益（若為正值）或損失（若為負值）。請找出有營業損失的公司名稱，存成character class的答案物件loss1Companies。
 ```{r ans11}
 # loss1Companies
+
+
 ```
 
 ### 1.2 每股盈餘
